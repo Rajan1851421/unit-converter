@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    margin-top: 20px;
+    height: 200px;
+    width: 400px;
+    background-color: rgba(116, 223, 17, 1);
+    border-radius: 10px;
+}
+input{
+    margin: 30px;
+    height: 30px;
+    font-weight: bold;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 18px;
+outline: none;
+border: none;
+box-shadow: 4px 2px;
+}
